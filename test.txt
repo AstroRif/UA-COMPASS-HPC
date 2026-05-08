@@ -1,0 +1,1 @@
+Total energy = kinetic energy + potential energy
